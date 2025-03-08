@@ -13,8 +13,36 @@
 - 🎓 I’m currently studying **Information Technology** at **Universitas Sumatera Utara**  
 - 💡 Passionate about **Technology and Web Development**  
 - 🛠️ Exploring **Machine Learning, Backend Development, and Cloud Computing**  
-- 🎯 2025 Goals: **Contribute more to Open Source & Build cool projects**  
+- 🎯 2024 Goals: **Contribute more to Open Source & Build cool projects**  
+- 📚 Currently learning **Semantic Web & Ontology Development**  
 
+---
+
+## 🎨 Hobbies & Interests  
+💻 Coding & Exploring new technologies  
+📸 Photography & Graphic Design  
+📚 Reading Tech Blogs & Sci-Fi Books  
+🎮 Gaming & Watching Korean Dramas  
+
+---
+
+## 🎉 Fun Facts
+💡 I started coding with HTML & CSS before learning JavaScript  
+🔥 I enjoy debugging more than writing new code (weird, right? 😆)  
+💬 I can understand 3 languages: **Bahasa Indonesia, English, and a bit of Korean**  
+🎶 I love listening to K-Pop & Lo-Fi while coding  
+
+---
+
+
+---
+
+## 📌 Latest Projects
+🔹 **[Classroom Reservation System](https://github.com/rekasihombing/classroom-reservation)** - A GUI-based Java application for managing classroom reservations.  
+🔹 **[Semantic Tourism Guide](https://github.com/rekasihombing/semantic-tourism-guide)** - A web-based semantic search engine for Indonesian tourist destinations.  
+🔹 **[Toko Sinar Pelangi POS System](https://github.com/rekasihombing/pos-system)** - A database-driven inventory and point-of-sale system for a stationery store.  
+
+---
 
 ## 📈 GitHub Stats  
 <p align="center">
@@ -24,6 +52,8 @@
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=rekasihombing&theme=radical" />
 </p>
+
+---
 
 ## 🌍 Let's Connect!
 <p align="center">
