@@ -38,10 +38,6 @@
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rekasihombing&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekasihombing&theme=radical" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=rekasihombing&theme=radical" />
 </p>
 
 ---
