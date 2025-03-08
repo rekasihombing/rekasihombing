@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Reka 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
 
-<!--
-**rekasihombing/rekasihombing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 I’m currently studying **Information Technology** at **Universitas Sumatera Utara**  
+- 💡 Passionate about **Technology and Web Development**  
+- 🛠️ Exploring **Machine Learning, Backend Development, and Cloud Computing**  
+- 🎯 2024 Goals: **Contribute more to Open Source & Build cool projects**  
+
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rekasihombing&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekasihombing&theme=radical" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=rekasihombing&theme=radical" />
+</p>
+
+## 🌍 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
