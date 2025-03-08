@@ -37,11 +37,6 @@
 
 ---
 
-## 📌 Latest Projects
-🔹 **[Classroom Reservation System](https://github.com/rekasihombing/classroom-reservation)** - A GUI-based Java application for managing classroom reservations.  
-🔹 **[Semantic Tourism Guide](https://github.com/rekasihombing/semantic-tourism-guide)** - A web-based semantic search engine for Indonesian tourist destinations.  
-🔹 **[Toko Sinar Pelangi POS System](https://github.com/rekasihombing/pos-system)** - A database-driven inventory and point-of-sale system for a stationery store.  
-
 ---
 
 ## 📈 GitHub Stats  
