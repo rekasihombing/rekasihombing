@@ -13,7 +13,7 @@
 - 🎓 I’m currently studying **Information Technology** at **Universitas Sumatera Utara**  
 - 💡 Passionate about **Technology and Web Development**  
 - 🛠️ Exploring **Machine Learning, Backend Development, and Cloud Computing**  
-- 🎯 2024 Goals: **Contribute more to Open Source & Build cool projects**  
+- 🎯 2025 Goals: **Contribute more to Open Source & Build cool projects**  
 - 📚 Currently learning **Semantic Web & Ontology Development**  
 
 ---
