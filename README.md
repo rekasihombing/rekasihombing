@@ -1,61 +1,15 @@
-<h1 align="center">Hi there, I'm Reka 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
+# Hi, I'm Reka 🌸
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 I’m currently studying **Information Technology** at **Universitas Sumatera Utara**  
-- 💡 Passionate about **Technology and Web Development**  
-- 🛠️ Exploring **Machine Learning, Backend Development, and Cloud Computing**  
-- 🎯 2025 Goals: **Contribute more to Open Source & Build cool projects**  
-- 📚 Currently learning **Semantic Web & Ontology Development**  
-
----
-
-## 🎨 Hobbies & Interests  
-💻 Coding & Exploring new technologies  
-📸 Photography & Graphic Design  
-📚 Reading Tech Blogs & Sci-Fi Books  
-🎮 Gaming & Watching Korean Dramas  
-
----
-
-## 🎉 Fun Facts
-💡 I started coding with HTML & CSS before learning JavaScript  
-🔥 I enjoy debugging more than writing new code (weird, right? 😆)  
-💬 I can understand 3 languages: **Bahasa Indonesia, English, and a bit of Korean**  
-🎶 I love listening to K-Pop & Lo-Fi while coding  
-
----
+<img src="https://raw.githubusercontent.com/rekasihombing/rekasihombing/f793fc8d3b811edd5451f9e7a711a8d459f94503/Frame%201.png" alt="Banner" width="100%" />
 
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekasihombing&show_icons=true&theme=radical" />
-</p>
 
----
-## 📊 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekasihombing&layout=compact&theme=radical" />
-</p>
----
+I'm a tech enthusiast who loves building things with code, exploring new technologies, and diving deep into problem-solving. I enjoy creating projects that address real-world challenges and experimenting with different ideas, whether it’s through web development, databases, or software engineering. For me, technology isn’t just about tools or programming languages—it’s about creativity, logic, and the excitement of turning concepts into something real and useful. I also have a strong interest in mathematics, as I enjoy how numbers and logic can be applied to solve complex problems and strengthen analytical thinking.
 
-## 🌍 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+
+
+### 🌱 Outside of Tech  
+🎮 I love discovering new interests, diving into creative hobbies, and finding inspiration from **books, games, music, and Korean dramas**.  
+🌍 For me, technology is not just a skillset but also a way to keep **learning, growing, and connecting** with the world around me. 🚀    
+ 
